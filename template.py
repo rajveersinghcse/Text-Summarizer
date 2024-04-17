@@ -27,9 +27,8 @@ list_of_files = [
     "requirements.txt",
     "setup.py",
     "research/trials.ipynb",
-
+    "research/requirements.txt"
 ]
-
 
 for filepath in list_of_files:
     filepath = Path(filepath)
