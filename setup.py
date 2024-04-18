@@ -6,9 +6,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME="Text-Summarizer",
-AUTHOR_USER_NAME="rajveersinghcse",
-SRC_REPO = "Text-Summarizer"
+REPO_NAME="textSummarizer"
+AUTHOR_USER_NAME="rajveersinghcse"
+SRC_REPO = "textSummarizer"
 
 setuptools.setup(
     name=SRC_REPO,
